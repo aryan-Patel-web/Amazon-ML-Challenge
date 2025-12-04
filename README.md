@@ -70,54 +70,48 @@ We designed a pipeline with the following steps:
 
 ## 📂 Folder Structure
 
-Amazon ML Hackathon/
-├── images/
-├── images2/
-├── catboost_info/
-│ ├── learn/
-│ ├── test/
-│ └── tmp/
-├── dataset/
-│ ├── sample_test_out.csv
-│ ├── sample_test_ready.csv
-│ ├── sample_test.csv
-│ ├── test_out.csv
-│ ├── test_ready.csv
-│ ├── test.csv
-│ ├── train_ready.csv
-│ └── train.csv
-├── src/
-│ ├── pycache/
-│ ├── aryan.ipynb
-│ ├── example.ipynb
-│ ├── submission_final_lgb.csv
-│ ├── submission_text_only.csv
-│ ├── test_out.csv
-│ └── utils.py
-├── .gitignore
-├── .DS_Store
-├── app.py
-├── app1.py
-├── app2.py
-├── app3.py
-├── app4.py
-├── code.zip
-├── dir-structure.txt
-├── Documentation_template.md
-├── download.py
-├── downTrain.py
-├── extract.py
-├── image.py
-├── lasthope.py
-├── night.py
-├── README.md
-├── rename.py
-├── sample_code.py
-├── test_image_mapping.csv
-├── test_out.csv
-├── text.py
-├── train_image_mapping.csv
-└── (other root-level files / scripts)
+## 📂 Project Structure
+
+- **images/**  
+- **images2/**  
+- **catboost_info/**  
+  - learn/  
+  - test/  
+  - tmp/  
+- **dataset/**  
+  - sample_test_out.csv  
+  - sample_test_ready.csv  
+  - sample_test.csv  
+  - test_out.csv  
+  - test_ready.csv  
+  - test.csv  
+  - train_ready.csv  
+  - train.csv  
+- **src/**  
+  - __pycache__/  
+  - aryan.ipynb  
+  - example.ipynb  
+  - test_out.csv  
+  - utils.py  
+- .gitignore  
+- .DS_Store  
+- app1.py  
+- app2.py  
+- app3.py  
+- app4.py  
+- dir-structure.txt  
+- Documentation_template.md  
+- download.py  
+- extract.py  
+- image.py  
+- rename.py  
+- sample_code.py  
+- test_image_mapping.csv  
+- test_out.csv  
+- text.py  
+- train_image_mapping.csv  
+- README.md  
+
 
 
 
