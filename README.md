@@ -115,7 +115,7 @@ We designed a pipeline with the following steps:
 
 
 
----
+
 
 ## 🧰 Getting Started / Setup
 
@@ -237,7 +237,10 @@ Methodologies: TF-IDF, ensemble learning, IQR-based outlier treatment, robust sc
 Inspired by community best practices for ML project structure and README documentation.
 
 
----
+
+
 
 If you like, I can **generate a fully-populated** `requirements.txt` (with versions) and a `.gitignore` together, so you have ready-to-push repo.
 ::contentReference[oaicite:3]{index=3}
+
+---
