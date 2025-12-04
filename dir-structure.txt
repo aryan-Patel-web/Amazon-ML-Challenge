@@ -1,0 +1,57 @@
+
+FullName
+--------
+D:\Amazon ML Hackathon\catboost_info
+D:\Amazon ML Hackathon\dataset
+D:\Amazon ML Hackathon\src
+D:\Amazon ML Hackathon\.DS_Store
+D:\Amazon ML Hackathon\.gitignore
+D:\Amazon ML Hackathon\app.py
+D:\Amazon ML Hackathon\app1.py
+D:\Amazon ML Hackathon\app2.py
+D:\Amazon ML Hackathon\app3.py
+D:\Amazon ML Hackathon\app4.py
+D:\Amazon ML Hackathon\code.zip
+D:\Amazon ML Hackathon\dir-structure.txt
+D:\Amazon ML Hackathon\Documentation_template.md
+D:\Amazon ML Hackathon\download.py
+D:\Amazon ML Hackathon\downTrain.py
+D:\Amazon ML Hackathon\extract.py
+D:\Amazon ML Hackathon\image.py
+D:\Amazon ML Hackathon\lasthope.py
+D:\Amazon ML Hackathon\night.py
+D:\Amazon ML Hackathon\README.md
+D:\Amazon ML Hackathon\rename.py
+D:\Amazon ML Hackathon\sample_code.py
+D:\Amazon ML Hackathon\test_image_mapping.csv
+D:\Amazon ML Hackathon\test_out.csv
+D:\Amazon ML Hackathon\text.py
+D:\Amazon ML Hackathon\train_image_mapping.csv
+D:\Amazon ML Hackathon\catboost_info\learn
+D:\Amazon ML Hackathon\catboost_info\test
+D:\Amazon ML Hackathon\catboost_info\tmp
+D:\Amazon ML Hackathon\catboost_info\catboost_training.json
+D:\Amazon ML Hackathon\catboost_info\learn_error.tsv
+D:\Amazon ML Hackathon\catboost_info\test_error.tsv
+D:\Amazon ML Hackathon\catboost_info\time_left.tsv
+D:\Amazon ML Hackathon\catboost_info\learn\events.out.tfevents
+D:\Amazon ML Hackathon\catboost_info\test\events.out.tfevents
+D:\Amazon ML Hackathon\catboost_info\tmp\cat_feature_index.c2f1c364-f6349665-af834cf8-624e6cbb.tmp
+D:\Amazon ML Hackathon\dataset\sample_test_out.csv
+D:\Amazon ML Hackathon\dataset\sample_test_ready.csv
+D:\Amazon ML Hackathon\dataset\sample_test.csv
+D:\Amazon ML Hackathon\dataset\test_out.csv
+D:\Amazon ML Hackathon\dataset\test_ready.csv
+D:\Amazon ML Hackathon\dataset\test.csv
+D:\Amazon ML Hackathon\dataset\train_ready.csv
+D:\Amazon ML Hackathon\dataset\train.csv
+D:\Amazon ML Hackathon\src\__pycache__
+D:\Amazon ML Hackathon\src\aryan.ipynb
+D:\Amazon ML Hackathon\src\example.ipynb
+D:\Amazon ML Hackathon\src\submission_final_lgb.csv
+D:\Amazon ML Hackathon\src\submission_text_only.csv
+D:\Amazon ML Hackathon\src\test_out.csv
+D:\Amazon ML Hackathon\src\utils.py
+D:\Amazon ML Hackathon\src\__pycache__\utils.cpython-313.pyc
+D:\Amazon ML Hackathon\src\__pycache__\utils.cpython-37.pyc
+

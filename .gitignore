@@ -1,0 +1,16 @@
+# Ignore image directories
+images/
+images2/
+
+# OS/editor junk
+*.DS_Store
+Thumbs.db
+
+git check-ignore -v images/ somefile_in_images.jpg
+git check-ignore -v images2/ anotherfile.jpg
+# ignore bulky data / images
+dataset/*.csv
+images/
+images2/
+*.zip
+
